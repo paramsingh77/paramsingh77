@@ -1,3 +1,11 @@
-Hey there.. This is Param's
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)....
 
+Hi there, I'm Parminder👦,
+A Full Stack Web developer🎯 and designer🎨.
+
+👨‍💻 Full Stack MERN Developer
+📚 What do I believe? Jack of all, Master of some.
+📫 How to reach me: Instagram - @param.sings
+Languages:
+    React.js , Javascript , C  , C++ , Saas , Python
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?paramsingh77=&theme=radical)
