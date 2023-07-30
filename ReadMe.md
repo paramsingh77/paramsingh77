@@ -8,4 +8,4 @@ A Full Stack Web developer🎯 and designer🎨.
 Languages:
     React.js , Javascript , C  , C++ , Saas , Python
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?paramsingh77=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paramsingh77&theme=radical)
