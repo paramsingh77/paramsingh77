@@ -4,7 +4,7 @@
 
  ### 👨‍💻 Full Stack MERN Developer
  ### 📚 What do I believe? Jack of all, Master of some.
- ### 📫 How to reach me: Instagram - @param.sings
+ ### 📫 How to reach me: Instagram - @[parmindersingh](https://www.linkedin.com/in/psingh20)
  ### Languages:
        Next.js , React.js , Java , Javascript , C, C++ ,  , Python , Ruby
 
