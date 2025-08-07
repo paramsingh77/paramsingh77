@@ -1,6 +1,6 @@
 
 # Hi there, I'm Parminder👦,
-## A Full Stack Web developer🎯 and  Software Engineer .
+# Software Engineer .
 
  ### 👨‍💻 Full Stack MERN Developer
  ### 📚 What do I believe? Jack of all, Master of some.
